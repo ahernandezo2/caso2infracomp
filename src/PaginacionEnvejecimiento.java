@@ -8,14 +8,11 @@ public class PaginacionEnvejecimiento {
     private int punteroReferencia;
 
     public PaginacionEnvejecimiento(int numMarcos, int[][] referencias) {
-        // Inicializar las estructuras de datos y otros datos
     }
 
     public void actualizarTablaYMarcos() {
-        // Implementar la lógica para actualizar la tabla de páginas y los marcos de página
     }
 
     public void ejecutarEnvejecimiento() {
-        // Implementar el algoritmo de envejecimiento
     }
 }
